@@ -1,0 +1,132 @@
+
+.form{
+    width: 396px;
+    height: 358px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2) ;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.form-footer{
+    width:396px;
+    display: inline-block;
+    margin-top: 130px;
+}
+
+.create-page{
+    padding: 30px 15px 0px 45px;
+}
+
+.create-page b{
+    cursor: pointer;
+}
+
+
+.email{
+    font-size: 17px;
+    font-style: normal;
+    padding: 14px 16px 14px 16px;
+    width: 330px;
+    height: 22px;
+    font-weight: 400;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: rgb(205, 206, 208);
+    color: rgb(29, 33, 41);
+    direction: ltr;
+    font-family: Helvetica, Arial;
+    line-height: normal;
+    margin: 15px;
+}
+
+.email-div{
+    height: 64px;
+}
+
+
+.password{
+    font-size: 17px;
+    font-style: normal;
+    padding: 14px 16px 14px 16px;
+    width: 330px;
+    height: 22px;
+    font-weight: 400;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: rgb(205, 206, 208);
+    color: rgb(29, 33, 41);
+    direction: ltr;
+    font-family: Helvetica, Arial;
+    line-height: normal;
+    margin: 15px;
+}
+
+.password-div{
+    height: 69px;
+}
+
+.login-button{
+    border: 0;
+    font-size: 18px;
+    font-weight: bold;
+    width: 366px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 6px;
+    background-color: rgb(53, 126, 243);
+    color: white;
+    margin: 15px 15px 20px 15px;
+    cursor: pointer;
+}
+
+.forgot-password{
+    text-align: center;
+    color: rgb(24, 119, 242);
+    font-family: Arial;
+    font-size: 14px;
+    margin-bottom: 23px;
+    cursor: pointer;
+}
+
+.line{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(218,221,225);
+    align-items: center;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 30px;
+}
+
+
+.create-new-account{
+    border: 0;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Arial;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 17px;
+    padding-right: 17px;
+    border-radius: 6px;
+    background-color: rgb(1, 185, 1);
+    color: white;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+
+
+.main-div{
+    display: flex;
+    flex-direction: row;
+}
+
+.image{
+    width: 800px;
+    height: 700px;
+}
+
+
